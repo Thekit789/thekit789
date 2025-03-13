@@ -17,7 +17,7 @@ I'm a passionate software developer and tester, driven by a love for crafting hi
 
 ## Projects ⭐
 
-- **[Home Service](https://home-service-finalproject.vercel.app/)** : **This project involves the development of an application to manage various home services, such as cleaning services, repair services, and other services to facilitate users.**
+- **[Home Service](https://home-services-project-dev-kits-projects.vercel.app/)** : **This project involves the development of an application to manage various home services, such as cleaning services, repair services, and other services to facilitate users.**
 - **[Personal Blog](https://my-react-blogger.vercel.app/)** : **This project content blog website with a dynamicand responsive web application developed ensuresa seamless user experience across various devicesthrough its fully responsive design.**
 - **[Web/Ui Automation & Manual Testing](https://kittisaksa.my.canva.site/)** : **Web UI Testing with Selenium & More! Showcasing expertise in functional testing , usability analysis, and detailed test documentation, all powered by Selenium and other advanced testing tools.**
 
